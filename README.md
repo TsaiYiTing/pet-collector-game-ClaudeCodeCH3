@@ -1,1 +1,1 @@
-# ClaudeCodeCH3
+# pet-collector-game-ClaudeCodeCH3
